@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puppet noop for Site Rollouts
+title: Puppet noop for site rollouts
 subtitle: Using noop mode for site deployments
 ---
 
