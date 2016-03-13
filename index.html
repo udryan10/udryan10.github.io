@@ -19,10 +19,15 @@ subtitle: Software Engineer + SysAdmin = Devops Engineer
 <div class="main-explain-area jumbotron">
   <div class="posts-list">
     {% for post in paginator.posts %}
+
+      {% if forloop.first != true %}  
+      <hr style='display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;' >
+      {% endif %}
+
     <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">{{ post.title }}</h2>
-  	
+
   	  {% if post.subtitle %}
   	  <h3 class="post-subtitle">
   	    {{ post.subtitle }}
