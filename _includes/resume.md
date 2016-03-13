@@ -1,4 +1,5 @@
-#<center>Ryan Grothouse</center>
+<center><h1>Ryan Grothouse</h1></center>
+
 <center>rgrothouse@gmail.com</center>
 <center><a href="http://linkedin.com/in/ryangrothouse">LinkedIn</a> - <a href="http://github.com/udryan10"> Github </a> </center>
 
