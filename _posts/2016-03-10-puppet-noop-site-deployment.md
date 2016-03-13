@@ -50,4 +50,4 @@ noop: false
 
 With these hiera configurations and the above puppet code, when your new puppet code hits production, the blue site will run in `noop` mode (only reporting what would change), while the green site will apply the new code.
 
-Of course, you don't need to use hiera to make this work, you just need a way to classify your servers into their respective site and be able to set the `$noop` variable depending on external source or some logic that works for you
+Of course, you don't need to use hiera to make this work, you just need a way to classify your servers into their respective site and be able to set the `$noop` variable based on some logic that fits into your architecture.
