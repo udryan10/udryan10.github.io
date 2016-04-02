@@ -10,7 +10,7 @@
 
 ## Achievements
 ---
-- Graduate of the GE Information Technology Leadership Program (ITLP) 
+- Graduate of the GE Information Technology Leadership Program (ITLP)
 - Contributor To Docker
 - Team presented at DockerCon 2015 ([https://youtu.be/RaSzmFkf4fM](https://youtu.be/RaSzmFkf4fM))
 - Certifications:
@@ -62,7 +62,7 @@ _Senior Technologist: Cloud and Application Services_
 
 - Pioneered the GE A&L private cloud initiative to deliver IaaS and PaaS built on top of vSphere, Ruby REST services, RabbitMQ, Github, Jenkins for Continuous Integration and Delivery and Puppet for configuration management
 - Prototyped multiple private cloud offerings including VMware vCloud Automation Center, vCloud Director and Open Stack before pursuing an internally developed cloud
-- Architected and Developed a service oriented IaaS solution driving server builds from 3 weeks to 5
+- Architected and Developed a micro service based IaaS solution driving server builds from 3 weeks to 5
 minutes, from manual to fully automated and 100% consistent
 - Developed Ruby orchestration code and multiple Ruby REST services to allow cloud server builds to self integrate with external systems (Backups, Monitoring, CMDB, IPAM, Active Directory)
 - Developed a multitude of Puppet modules, custom facts and functions to drive to automated server management
